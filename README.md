@@ -1,5 +1,5 @@
 # [CS341] Introduction to Computer Networks
-TCP protocol implementation([KENS](https://github.com/ANLAB-KAIST/KENSv3) by ANLAB@KAIST) for KAIST CS341 course, Fall 2019.
+TCP protocol implementation ([KENS](https://github.com/ANLAB-KAIST/KENSv3) by ANLAB@KAIST) for KAIST CS341 course, Fall 2019.
 
 ## Project implemenatation
 * Project 1: String encryption/decryption service between client and server, implemented over TCP sockets
